@@ -71,28 +71,6 @@
 
 ---
 
-<h2 align="center">📊 Analytics &amp; Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/Roky777">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roky777&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;text_color=E0E6ED&amp;icon_color=00D9FF" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Roky777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roky777&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;text_color=E0E6ED" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-## 🧠 How I Work &amp; What's Next
-
-*   **Building:** Design-first. Every feature starts as a question about user intent. Aesthetics and functionality must reinforce each other.
-*   **Thinking:** Deep before broad. I read specs before code, understand the *why* before the *how*.
-*   **What's Immediate:** Completing The Sleeping City's Outside World chapter with fully playable BFS puzzles, launching as a hackathon submission.
-*   **What's Soon:** Open-source contributions to Tiled (Qt/C++) and CircuitVerse (JS/Vue). Exploring game development roles at indie studios.
-
----
-
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">I'm interested in game development roles and internships, collaborating on educational or narrative-driven projects, and open-source contributions that matter.</p>
