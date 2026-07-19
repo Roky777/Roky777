@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Banner"/>
+  <img width="600" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Banner"/>
 
   <br><br>
 
