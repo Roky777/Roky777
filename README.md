@@ -1,104 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Roky+Paul!+%F0%9F%91%8B;Passionate+Developer;Lifelong+Learner;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <p><b>Crafting clean code and building scalable digital experiences.</b></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=rokypaul&label=Profile%20views&color=2196F3&style=flat" alt="Profile Views" />
-</div>
 
-<br />
+  <img width="100%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Banner"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rokypaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving Hand">
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=8A9DFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there,+I'm+Roky+Paul!;Game+Developer+%26+UI%2FUX+Designer;Building+The+Sleeping+City" alt="typing" />
+
+  <p><b>I build interactive experiences where aesthetics meet code.</b></p>
+
+  <p>
+    Inspired by atmospheric games like INSIDE and LIMBO. Every mechanic serves the story. Every pixel serves the mood. <br>
+    📍 India &nbsp;·&nbsp; 🎯 Preparing for a game dev internship &nbsp;·&nbsp; 🌱 Learning game architecture &amp; systems design
+  </p>
+
 </div>
 
 ---
 
-### 💫 About Me
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🚀 I’m currently building awesome projects and scaling applications.</li>
-        <li>🌱 I’m currently diving deeper into <strong>Cloud Architecture & System Design</strong>.</li>
-        <li>🤝 I’m looking to collaborate on <strong>innovative open-source projects</strong>.</li>
-        <li>💡 Ask me about <strong>Software Development, Tech Trends, and problem-solving</strong>.</li>
-        <li>⚡ Fun fact: <em>I love optimizing code just as much as I love my coffee! ☕</em></li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggCGT1x67UfUq3/giphy.gif" width="200" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Game Development &amp; Creative 🎮</b><br>
+  <img src="https://img.shields.io/badge/Phaser%203-FF006E?style=for-the-badge&amp;logo=phaser&amp;logoColor=white" alt="Phaser 3"/>
+  <img src="https://img.shields.io/badge/Game%20Design-00D9FF?style=for-the-badge" alt="Game Design"/>
+  <img src="https://img.shields.io/badge/Educational%20Games-FFB703?style=for-the-badge&amp;logoColor=white" alt="Educational Games"/>
+  <img src="https://img.shields.io/badge/Narrative%20Design-8E44AD?style=for-the-badge" alt="Narrative Design"/>
+</p>
 
----
+<p align="center">
+  <b>Frontend &amp; Backend ⚙️</b><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node JS"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+</p>
 
-### 🛠️ Tech Stack & Tools
-
-_(Click to expand the sections below)_
-
-<details>
-  <summary><b>💻 Programming Languages</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</details>
-
-<details>
-  <summary><b>🎨 Frameworks & Libraries</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-</details>
-
-<details>
-  <summary><b>🗄️ Databases & Cloud</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</details>
+<p align="center">
+  <b>Problem Solving 💪</b><br>
+  <img src="https://img.shields.io/badge/Data%20Structures-FF006E?style=for-the-badge" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/DSA%20Expert-FFB703?style=for-the-badge" alt="DSA Expert"/>
+</p>
 
 ---
 
-### 📈 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/rokypaul">
-    <img src="https://github-readme-stats.vercel.app/api?username=rokypaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Roky's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rokypaul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokypaul&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=ffffff" alt="Roky's GitHub Streak" />
-  </a>
-</div>
+### 🌙 [The Sleeping City](https://github.com/Roky777/The-Sleeping-City)
+> **A puzzle-platformer where a child wakes a forgotten city**
+> 
+> A cinematic game built with **Phaser 3** where gameplay teaches electricity concepts through environmental storytelling — no tutorials, no text. Just pure interaction and discovery.
+> * **Status:** Active development
+> * **Vibe:** INSIDE/LIMBO inspired — dark, atmospheric, emotional
+> * **Features:** BFS-based circuit puzzles, atmospheric exploration, Grade 6 electricity standards integration
 
-<br />
+### 🎛️ [NexusHub](https://github.com/Roky777/nexushub-final)
+> **One dashboard, six tools — built vanilla**
+> 
+> A multi-tool dashboard built with zero frameworks. Proves that thoughtful vanilla HTML, CSS, and JS can be powerful and elegant. Includes a quiz system, expense tracker, live news feed, GitHub explorer, and Kanban board.
 
-<div align="center">
-  <a href="https://github.com/rokypaul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokypaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" />
-  </a>
-</div>
+### 💰 [Crowdfunding Platform](https://github.com/Roky777/Crowdfunding-Platform)
+> **Frontend-focused fundraising experience**
+> 
+> A responsive crowdfunding interface with emphasis on user journey and visual feedback — campaign listings, donation tracking, and progress visualization.
 
 ---
 
-<div align="center">
-  <i>Thanks for stopping by! Feel free to reach out and connect.</i>
-</div>
+<h2 align="center">📊 Analytics &amp; Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/Roky777">
+    <img src="https://github-readme-stats.vercel.app/api?username=Roky777&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;text_color=E0E6ED&amp;icon_color=00D9FF" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Roky777">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roky777&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;text_color=E0E6ED" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 🧠 How I Work &amp; What's Next
+
+*   **Building:** Design-first. Every feature starts as a question about user intent. Aesthetics and functionality must reinforce each other.
+*   **Thinking:** Deep before broad. I read specs before code, understand the *why* before the *how*.
+*   **What's Immediate:** Completing The Sleeping City's Outside World chapter with fully playable BFS puzzles, launching as a hackathon submission.
+*   **What's Soon:** Open-source contributions to Tiled (Qt/C++) and CircuitVerse (JS/Vue). Exploring game development roles at indie studios.
+
+---
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">I'm interested in game development roles and internships, collaborating on educational or narrative-driven projects, and open-source contributions that matter.</p>
+
+<p align="center">
+  <a href="https://roky777.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rokypaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8A9DFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center"><i>"The best games are those that transport you to another world — where beauty, challenge, and story converge."</i></p>
+
+<p align="center">
+  <a href="https://github.com/Roky777">
+    <img src="https://komarev.com/ghpvc/?username=roky777&amp;label=Visitors&amp;color=1A1A2E&amp;style=flat" alt="Visitors" />
+  </a>
+</p>
