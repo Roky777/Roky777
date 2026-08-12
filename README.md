@@ -13,8 +13,7 @@
   <p><b>I build interactive experiences where aesthetics meet code.</b></p>
 
   <p>
-    Inspired by atmospheric games like INSIDE and LIMBO. Every mechanic serves the story. Every pixel serves the mood. <br>
-    📍 India &nbsp;·&nbsp; 🎯 Preparing for a game dev internship &nbsp;·&nbsp; 🌱 Learning game architecture &amp; systems design
+    Learning game architecture &amp; systems design
   </p>
 
 </div>
