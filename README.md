@@ -1,89 +1,204 @@
 <div align="center">
 
-  <img width="600" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6C5CE7,100:8A9DFF&height=200&section=header&text=Roky%20Paul&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Frontend%20Developer&descAlignY=58&descSize=17"/>
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8A9DFF&center=true&vCenter=true&width=550&lines=Building+The+Sleeping+City+%F0%9F%8C%99;Contributing+to+Podman+%F0%9F%90%8B;Where+aesthetics+meet+code." alt="typing" />
 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving Hand">
+<br/><br/>
 
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=8A9DFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there,+I'm+Roky+Paul!;Game+Developer+%26+UI%2FUX+Designer;Building+The+Sleeping+City" alt="typing" />
-
-  <p><b>I build interactive experiences where aesthetics meet code.</b></p>
-
-  <p>
-    Learning game architecture &amp; systems design
-  </p>
+<a href="https://roky-paul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rokypaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:roky.paul.sot25@pwioi.com"><img src="https://img.shields.io/badge/Email-8A9DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<p align="center">
-  <b>Game Development &amp; Creative 🎮</b><br>
-  <img src="https://img.shields.io/badge/Phaser%203-FF006E?style=for-the-badge&amp;logo=phaser&amp;logoColor=white" alt="Phaser 3"/>
-  <img src="https://img.shields.io/badge/Game%20Design-00D9FF?style=for-the-badge" alt="Game Design"/>
-  <img src="https://img.shields.io/badge/Educational%20Games-FFB703?style=for-the-badge&amp;logoColor=white" alt="Educational Games"/>
-  <img src="https://img.shields.io/badge/Narrative%20Design-8E44AD?style=for-the-badge" alt="Narrative Design"/>
-</p>
+## 🧊 About
 
-<p align="center">
-  <b>Frontend &amp; Backend ⚙️</b><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node JS"/>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
-</p>
+I'm a second-year Computer Science student who builds interactive experiences where design and code meet — atmospheric games, clean design systems, and frontend work I can stand behind end to end.
 
-<p align="center">
-  <b>Problem Solving 💪</b><br>
-  <img src="https://img.shields.io/badge/Data%20Structures-FF006E?style=for-the-badge" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/DSA%20Expert-FFB703?style=for-the-badge" alt="DSA Expert"/>
-</p>
+```yaml
+role: Game Developer & UI/UX Designer
+currently_building: The Sleeping City — an atmospheric puzzle-platformer (Phaser 3)
+currently_learning: Godot 4, systems design, open-source contribution workflows
+currently_exploring: Podman — LFX Mentorship application (podman.io Downloads page)
+based_in: Bengaluru, India
+studying: B.Tech Computer Science, Medhavi Skills University
+```
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Game Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="42"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Phaser_3-FF006E?style=for-the-badge" height="26"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" height="26"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge" height="26"/>
+
+<br/><br/>
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css&theme=dark" height="42"/>
+
+<br/><br/>
+
+**Backend & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vercel,vite&theme=dark" height="42"/>
+
+<br/><br/>
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="42"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Design_Systems-8A9DFF?style=for-the-badge" height="26"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WCAG_AA-00A896?style=for-the-badge" height="26"/>
+
+<br/><br/>
+
+**Core / DSA**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" height="42"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Data_Structures-FF006E?style=for-the-badge" height="26"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 Featured Projects
 
-### 🌙 [The Sleeping City](https://github.com/Roky777/The-Sleeping-City)
-> **A puzzle-platformer where a child wakes a forgotten city**
-> 
-> A cinematic game built with **Phaser 3** where gameplay teaches electricity concepts through environmental storytelling — no tutorials, no text. Just pure interaction and discovery.
-> * **Status:** Active development
-> * **Vibe:** INSIDE/LIMBO inspired — dark, atmospheric, emotional
-> * **Features:** BFS-based circuit puzzles, atmospheric exploration, Grade 6 electricity standards integration
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎛️ [NexusHub](https://github.com/Roky777/nexushub-final)
-> **One dashboard, six tools — built vanilla**
-> 
-> A multi-tool dashboard built with zero frameworks. Proves that thoughtful vanilla HTML, CSS, and JS can be powerful and elegant. Includes a quiz system, expense tracker, live news feed, GitHub explorer, and Kanban board.
+### 🐋 Podman Downloads Page
+**LFX Mentorship application**
+*Fork of [containers/podman.io](https://github.com/containers/podman.io)*
 
-### 💰 [Crowdfunding Platform](https://github.com/Roky777/Crowdfunding-Platform)
-> **Frontend-focused fundraising experience**
-> 
-> A responsive crowdfunding interface with emphasis on user journey and visual feedback — campaign listings, donation tracking, and progress visualization.
+Podman's site had no dedicated downloads page — "Other Install Options" just redirected to install docs. I built one with:
 
----
+- **OS auto-detection** + manual override
+- **Per-distro Linux commands** (Fedora, Debian, Arch, Alpine, openSUSE, Gentoo) — real package-manager syntax, not binary downloads
+- **Rootless/daemonless explainer** for first-time users
+- **Full accessibility pass** — WCAG AA, keyboard nav, ARIA labels
+- **YouTube tie-in** via build-time RSS fetch — zero exposed API keys
 
-<h2 align="center">Let's Connect</h2>
+Also found two real upstream bugs: a broken Prettier/Husky pre-commit hook and an SSR issue in an existing component.
 
-<p align="center">I'm interested in game development roles and internships, collaborating on educational or narrative-driven projects, and open-source contributions that matter.</p>
+`Docusaurus` `React` `Accessibility`
 
-<p align="center">
-  <a href="https://roky777.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rokypaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8A9DFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p>
+**[Live →](https://podmanio.vercel.app/downloads)** · **[Code →](https://github.com/Roky777/podman.io/tree/feature/downloads-page)**
 
-<p align="center"><i>"The best games are those that transport you to another world — where beauty, challenge, and story converge."</i></p>
+> *Podman mentor reading this — hi 👋 hope the Downloads page was useful.*
 
-<p align="center">
-  <a href="https://github.com/Roky777">
-    <img src="https://komarev.com/ghpvc/?username=roky777&amp;label=Visitors&amp;color=1A1A2E&amp;style=flat" alt="Visitors" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
+
+### 🌙 The Sleeping City
+**Solo · Winner, PhysicsWallah Games Hackathon**
+
+A 2D atmospheric puzzle-platformer inspired by INSIDE and LIMBO — a child wakes a forgotten city, and every puzzle teaches a physics concept through environmental storytelling.
+
+- No tutorials, no on-screen text — pure interaction and discovery
+- Six districts, each grounded in a different physics domain
+- Game design, mechanics, and art direction, end-to-end, solo
+
+`Phaser 3` `JavaScript` `Game Design`
+
+**[Play →](https://roky777.github.io/The-Sleeping-City)** · **[Code →](https://github.com/Roky777/The-Sleeping-City)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 Task Tracker
+**Solo**
+
+A week-planner app built to prove real production capability in the same stack Podman's own site runs on.
+
+- Priority, category, and date-time tagging
+- 24-hour calendar layout
+- Filter and search
+- Built and deployed entirely solo
+
+`Next.js 16` `React 19` `TypeScript`
+
+**[Live →](https://task-tracker-six-rosy.vercel.app)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎛️ NexusHub
+**Team of 5 · Built the Kanban module**
+
+A capstone project: six independent tools unified into one dashboard, built entirely in vanilla HTML, CSS, and JavaScript — no frameworks, no build step.
+
+- Quiz, Expense Tracker, News, GitHub Explorer, Kanban, Home
+- My piece: drag-and-drop Kanban board, persistent state (localStorage)
+- Followed a shared state → render → events architecture across the team
+
+`Vanilla JS` `HTML5` `CSS3`
+
+**[Live →](https://nexushub-final.vercel.app)** · **[Code →](https://github.com/Roky777/nexushub-final)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Roky777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=8A9DFF&icon_color=8A9DFF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roky777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=8A9DFF&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roky777&theme=tokyonight&hide_border=true&background=1A1A2E&stroke=8A9DFF&ring=8A9DFF&fire=FF006E&currStreakLabel=8A9DFF" height="165"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<div align="center">
+
+## 💬 Let's Connect
+
+I'm interested in **open-source contribution**, **game development roles**, and collaborating on **educational or narrative-driven projects**.
+
+<br/>
+
+<a href="https://roky-paul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rokypaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:roky.paul.sot25@pwioi.com"><img src="https://img.shields.io/badge/Email-8A9DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"The best games are those that transport you to another world — where beauty, challenge, and story converge."</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=roky777&label=Profile+Views&color=8A9DFF&style=for-the-badge"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A9DFF,50:6C5CE7,100:1A1A2E&height=100&section=footer"/>
