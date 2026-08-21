@@ -162,24 +162,6 @@ A capstone project: six independent tools unified into one dashboard, built enti
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Roky777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=8A9DFF&icon_color=8A9DFF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roky777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=8A9DFF&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roky777&theme=tokyonight&hide_border=true&background=1A1A2E&stroke=8A9DFF&ring=8A9DFF&fire=FF006E&currStreakLabel=8A9DFF" height="165"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<div align="center">
 
 ## 💬 Let's Connect
 
