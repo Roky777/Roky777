@@ -161,26 +161,3 @@ A capstone project: six independent tools unified into one dashboard, built enti
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-
-## 💬 Let's Connect
-
-I'm interested in **open-source contribution**, **game development roles**, and collaborating on **educational or narrative-driven projects**.
-
-<br/>
-
-<a href="https://roky-paul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rokypaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:roky.paul.sot25@pwioi.com"><img src="https://img.shields.io/badge/Email-8A9DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<i>"The best games are those that transport you to another world — where beauty, challenge, and story converge."</i>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=roky777&label=Profile+Views&color=8A9DFF&style=for-the-badge"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A9DFF,50:6C5CE7,100:1A1A2E&height=100&section=footer"/>
